@@ -1,5 +1,5 @@
-a= 1997
+a=29
 b=45
 c=a+b
 d = print(c)
-"Output of addition is 2042"
+"Output of addition is 74"

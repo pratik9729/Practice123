@@ -3,3 +3,4 @@ b=45
 c=a+b
 d = print(c)
 "Output of addition is 74"
+"This is a new feature"
